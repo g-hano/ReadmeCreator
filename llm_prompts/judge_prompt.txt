@@ -1,0 +1,10 @@
+
+    Evaluate the summary for {filename}:
+
+    <summary>
+    {summary}
+    </summary>
+
+    Follow the system instructions exactly. You need to decide between returning If you think the review should be rewritten 'rewrite' and If you think the review is well written 'go'. 
+    Do not return any other text.
+    

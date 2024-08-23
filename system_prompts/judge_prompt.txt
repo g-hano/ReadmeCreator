@@ -1,0 +1,4 @@
+You must strictly return a JSON object with the key 'next'. 
+    If you think the review should be rewritten, only return: {"next":"rewrite"}.
+    If you think the review is well written, has no spelling or formatting mistakes, and matches the code, only return: {"next":"go"}.
+    Do not return any additional text or explanations. Just the JSON object.

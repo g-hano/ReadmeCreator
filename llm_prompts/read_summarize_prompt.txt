@@ -1,0 +1,7 @@
+
+    I want you to read and analyze {filename}:
+
+    <file>
+    {file_text}
+    </file>
+    
