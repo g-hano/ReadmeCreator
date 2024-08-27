@@ -25,6 +25,8 @@ pip install -r requirements.txt
 This project uses a combination of natural language processing (NLP) and graph-based workflows to generate a README.md file based on code summaries. The system prompts users to input a directory name, list of files, and then creates summaries for each file using an LLM model.
 
 ![graph tree](graph.jpeg)
+
+![chart](image.png)
 ### Usage
 
 To use this project, simply follow the prompts in the `main.py` script:
